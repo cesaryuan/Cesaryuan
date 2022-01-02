@@ -43,18 +43,16 @@ Sunday       16 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               1 hr                ████████████████████████░   98.23% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 1 min          █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-02-Tampermonkey          1 hr 1 min          █████████████████████████   100.0% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
-Windows                  1 hr 1 min          █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -75,7 +73,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cesaryuan/cesaryuan/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/01/2022
+ Last Updated on 02/01/2022
 <!--END_SECTION:waka-->
 
 <!--
