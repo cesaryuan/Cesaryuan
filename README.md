@@ -1,12 +1,12 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-234%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 94 Contributions in the Year 2022
+> 🏆 95 Contributions in the Year 2022
  > 
 > 📦 163.5 kB Used in GitHub's Storage 
  > 
@@ -16,6 +16,48 @@
  > 
 > 🔑 17 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    13 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+🌆 Daytime    16 commits     █████░░░░░░░░░░░░░░░░░░░░   20.51% 
+🌃 Evening    48 commits     ███████████████░░░░░░░░░░   61.54% 
+🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.28%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.41% 
+Tuesday      7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.97% 
+Wednesday    7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.97% 
+Thursday     8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
+Friday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.41% 
+Saturday     26 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
+Sunday       20 commits     ██████░░░░░░░░░░░░░░░░░░░   25.64%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -33,7 +75,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cesaryuan/cesaryuan/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 18:49:24 UTC
+ Last Updated on 05/09/2022 18:52:22 UTC
 <!--END_SECTION:waka-->
 
 <!--
