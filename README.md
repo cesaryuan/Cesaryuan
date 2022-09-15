@@ -16,6 +16,48 @@
  > 
 > 🔑 17 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    13 commits     █████░░░░░░░░░░░░░░░░░░░░   22.03% 
+🌆 Daytime    13 commits     █████░░░░░░░░░░░░░░░░░░░░   22.03% 
+🌃 Evening    32 commits     █████████████░░░░░░░░░░░░   54.24% 
+🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.47% 
+Tuesday      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39% 
+Wednesday    6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.17% 
+Thursday     8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
+Friday       5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.47% 
+Saturday     17 commits     ███████░░░░░░░░░░░░░░░░░░   28.81% 
+Sunday       16 commits     ██████░░░░░░░░░░░░░░░░░░░   27.12%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -33,7 +75,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cesaryuan/cesaryuan/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 18:54:54 UTC
+ Last Updated on 15/09/2022 18:54:08 UTC
 <!--END_SECTION:waka-->
 
 <!--
