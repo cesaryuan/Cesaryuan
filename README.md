@@ -1,94 +1,34 @@
-### Hi there 👋
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-234%20hrs%2036%20mins-blue)
+Hi 👋 My name is Cesaryuan
+==========================
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+Amateur developer
+-----------------
 
-**🐱 My GitHub Data** 
-
-> 🏆 125 Contributions in the Year 2022
- > 
-> 📦 164.7 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 63 Public Repositories 
- > 
-> 🔑 17 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    12 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
-🌆 Daytime    14 commits     █████░░░░░░░░░░░░░░░░░░░░   20.29% 
-🌃 Evening    42 commits     ███████████████░░░░░░░░░░   60.87% 
-🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.45%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.25% 
-Tuesday      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.25% 
-Wednesday    6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-Thursday     10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-Friday       8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.59% 
-Saturday     17 commits     ██████░░░░░░░░░░░░░░░░░░░   24.64% 
-Sunday       18 commits     ██████░░░░░░░░░░░░░░░░░░░   26.09%
-
-```
+### Skills
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   28.0% 
-Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-C#                       5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Vue                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0%
-
-```
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+</p>
 
 
-**Timeline**
+### Socials
 
-![Chart not found](https://raw.githubusercontent.com/cesaryuan/cesaryuan/main/charts/bar_graph.png) 
+<p align="left"> <a href="https://www.github.com/cesaryuan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
+### Badges
 
- Last Updated on 08/11/2022 19:01:30 UTC
-<!--END_SECTION:waka-->
+<b>My GitHub Stats</b>
 
-<!--
-**cesaryuan/Cesaryuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="http://www.github.com/cesaryuan"><img src="https://github-readme-stats.vercel.app/api?username=cesaryuan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="cesaryuan's GitHub stats" /></a>
